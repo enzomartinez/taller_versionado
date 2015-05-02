@@ -1,0 +1,7 @@
+nombre:Enzo F. Martinez
+email:enzo11101@hotmail.com	
+que te parecio el taller:el taller fue bastante instructivo, exepto por la parte de mi maquina,
+ todo el concepto y la importancia del control de veciones se me quedo. para el futuro servira de algo.
+git add 
+git commit 
+git push
